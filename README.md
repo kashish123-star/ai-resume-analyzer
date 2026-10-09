@@ -1,2 +1,1 @@
-# ai-resume-analyzer
- AI Resume Analyzer using Python 
+ app.py
